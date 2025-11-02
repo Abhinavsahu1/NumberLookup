@@ -56,4 +56,4 @@
 Run the tool from your terminal. Remember to include the country code.
 
 ```bash
-python main.py -n "+919876543210"
+python main.py -n "enter your no."
